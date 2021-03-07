@@ -1,2 +1,3 @@
-# CurrencyConvertor
-Simple Currency convertor project from Hyperskill
+# Python_projects
+
+Simple projects from Hyperskill.com
